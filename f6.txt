@@ -2,3 +2,5 @@ hi!
 hello!
 how are ypu?
 this is SE lab
+good morning
+bye!!!!!
